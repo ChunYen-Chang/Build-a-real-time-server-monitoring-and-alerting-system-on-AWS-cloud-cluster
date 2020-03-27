@@ -41,7 +41,6 @@
 
 - Step 6: Modify the prometheous config file - **prometheus.yml**
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/011.png)
-
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/012.png)
 
 - Step 7: Launch Prometheous master server by typing `./prometheous`
@@ -49,7 +48,6 @@
 
 - Step 8: Access to the server to check whether it is success or not
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/014.png)
-
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/015.png)
 
 
@@ -71,7 +69,6 @@
 
 - Step 6: Launch Prometheous master server by typing `./node_exporter`
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/020.png)
-
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/021.png)
 
 - Step 7: Access to these nodes to check whether node_exporter work properly or not
@@ -79,7 +76,6 @@
 
 - Step 8: Access to the Prometheous master server to check whether Master catches all nodes information or not
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/023.png)
-
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/024.png)
 
 **FOURTH PART: INSTALL GRAFANA**
@@ -112,7 +108,6 @@
 
 - Step 10: Relelating settings in Step 9
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/033.png)
-
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/034.png)
 
 - Step 11: Clicl import icon on the left panel to import Grafana dashboard which already created by others to presnet your data
@@ -123,12 +118,10 @@
 
 - Step 13: Use the dashboard to present the system data from each monitored nodes
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/037.png)
-
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/038.png)
 
 - Step Bonus: You can choose the dashboard layout you like ! For example.... 
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/039.png)
-
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/040.png)
 
 **FINAL PART: INSTALL PROMETHEOUS ALERTMANAGER**
@@ -172,7 +165,6 @@
 
 - Step 14: Shutting down one node_exporter to see whether we can get the email notification or not
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/054.png)
-
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/055.png)
 
 - Step 15: Make sure alert manager receives the error message
