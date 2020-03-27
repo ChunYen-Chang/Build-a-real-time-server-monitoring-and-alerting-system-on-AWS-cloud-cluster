@@ -1,5 +1,8 @@
-
-
+<p align="center">
+  <img width="750" height="280" src="https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/project_logo.jpg">
+</p>
+  
+  
 # Build a Real-Time Server Monitoring and Alerting System on AWS Cloud Cluster
 
 
