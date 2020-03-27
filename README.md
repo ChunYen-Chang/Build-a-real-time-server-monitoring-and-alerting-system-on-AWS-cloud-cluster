@@ -5,7 +5,11 @@
   
 # Build a Real-Time Server Monitoring and Alerting System on AWS Cloud Cluster
 -----
+### *Real-time server monitor system dashboard*
+![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/037.png)
+![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/038.png)
 
+-----
 ### *SYSTEM ARCHITECTURE*
 -----
 
