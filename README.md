@@ -9,6 +9,9 @@
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/037.png)
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/038.png)
 
+### *Immediately Notify system errors through E-mail*
+![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/057.png)
+
 -----
 ### *SYSTEM ARCHITECTURE*
 -----
