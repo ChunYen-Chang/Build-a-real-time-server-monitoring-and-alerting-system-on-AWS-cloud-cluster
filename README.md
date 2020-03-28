@@ -5,15 +5,24 @@
   
 # Build a Real-Time Server Monitoring and Alerting System on AWS Cloud Cluster
 -----
-### *Real-time server monitor system dashboard*
+### *PROJECT DESCRIPTION*
+**Are you tired of accessing to each cluster node and checking the node status one by one? Do you want to build a system that helps you detect the error in your cluster and send an email to you automatically? You are in the right place.** 
+
+This project tries to build a real-time server monitoring and alerting system on the AWS cloud cluster by Prometheus and Grafana. If you want to know the system architecture, please go to the SYSTEM ARCHITECTURE section. This section details the system framework and how this system works. 
+
+If you want to know how to build the system step by step, please go to STEP BY STEP LAUNCHING INSTRUCTION section. You can follow the instructions to build a system having a fancy dashboard for monitoring your cluster. The dashboard will be similar to the below pictures.
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/037.png)
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/038.png)
 
-### *Immediately Notify system errors through E-mail*
+And,the system also has the email notification so that you can fix your cluster when there is an error as soon as possible. 
 ![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/057.png)
+
 
 -----
 ### *SYSTEM ARCHITECTURE*
+![](https://github.com/ChunYen-Chang/Build-a-real-time-server-monitoring-and-alerting-system-on-AWS-cloud-cluster/blob/master/image/system_architecture.jpeg)
+
+
 -----
 
 ### *STEP BY STEP LAUNCHING INSTRUCTION*
